@@ -1,1 +1,1 @@
-# Lab6Web
+<p2>jQuery Effects – Sliding <p2>
